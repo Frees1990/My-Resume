@@ -294,7 +294,7 @@ footer {
 }
 
 .timeline-item {
-    padding: 4em 2em 0em 2em;
+    padding: 2em 2em 0em 2em;
     position: relative;
     color: #fafafa;
     border-left: 1px solid;
@@ -309,11 +309,11 @@ footer {
     content: attr(data-dates);
     position: absolute;
     left: 2.5em;
-    top: 3em;
+    top: 1em;
     display: block;
     font-family: "Exo", sans-serif;
-    font-weight: 500;
-    font-size: 0.8em;
+    font-weight: 50;
+    font-size: 0.1em;
     padding: 0;
     margin: 0;
 }
